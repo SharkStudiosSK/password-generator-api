@@ -9,6 +9,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/password-generator-api.git
 
+```bash
 
 ## Install dependencies
 
@@ -16,3 +17,4 @@ git clone https://github.com/your-username/password-generator-api.git
 cd password-generator-api
 npm install
 
+```dependencies
