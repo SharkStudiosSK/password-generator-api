@@ -10,4 +10,9 @@ Clone the repository:
 git clone https://github.com/your-username/password-generator-api.git
 
 
-## 
+## Install dependencies
+
+```dependencies
+cd password-generator-api
+npm install
+
