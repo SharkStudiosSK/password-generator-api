@@ -25,7 +25,7 @@ npm install
 ```bash
 npm start
 ```
-Access the API endpoint at http://localhost:3000/password/:length, where :length is the desired length of the password.
+Access the API endpoint at https://password-generator-api.glitch.me/password/:length, where :length is the desired length of the password.
 ## Usage
 
 
@@ -34,7 +34,7 @@ Access the API endpoint at http://localhost:3000/password/:length, where :length
 
 
 ```javascript
-curl http://localhost:3000/password/12
+curl https://password-generator-api.glitch.me/password/12
 ```
 ## Example response
 
