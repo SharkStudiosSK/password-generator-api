@@ -10,7 +10,7 @@ This is a Node.js application using the Express framework to create a REST API e
 
 
 ```bash
-  git clone https://github.com/your-username/password-generator-api.git
+  git clone https://github.com/Miskoking800/password-generator-api.git
 
 ```
     
