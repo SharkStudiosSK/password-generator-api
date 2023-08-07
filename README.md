@@ -1,4 +1,4 @@
-
+q
 # Password Generation Api
 
 This is a Node.js application using the Express framework to create a REST API endpoint that generates a random password of a specified length.
@@ -25,7 +25,7 @@ npm install
 ```bash
 npm start
 ```
-Access the API endpoint at https://password-generator-api.glitch.me/password/:length, where :length is the desired length of the password.
+Access the API endpoint at https://localhost:3000/password/:length, where :length is the desired length of the password.
 ## Usage
 
 
@@ -34,7 +34,7 @@ Access the API endpoint at https://password-generator-api.glitch.me/password/:le
 
 
 ```javascript
-curl https://password-generator-api.glitch.me/password/12
+curl https://localhost:3000/password/12
 ```
 ## Example response
 
